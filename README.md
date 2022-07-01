@@ -2,11 +2,11 @@
 
 <!---Esses são exemplos. Veja https://shields.io para outras pessoas ou para personalizar este conjunto de escudos. Você pode querer incluir dependências, status do projeto e informações de licença aqui--->
 
-![GitHub repo size](https://img.shields.io/github/repo-size/artiscruelty/showcase-github-App?style=for-the-badge)
-![GitHub language count](https://img.shields.io/github/languages/count/artiscruelty/showcase-github-App?style=for-the-badge)
-![GitHub forks](https://img.shields.io/github/forks/artiscruelty/showcase-github-App?style=for-the-badge)
-![Bitbucket open issues](https://img.shields.io/bitbucket/issues/artiscruelty/showcase-github-App?style=for-the-badge)
-![Bitbucket open pull requests](https://img.shields.io/bitbucket/pr-raw/artiscruelty/showcase-github-App?style=for-the-badge)
+![GitHub repo size](https://img.shields.io/github/repo-size/artiscruelty/cartao-de-visitas-App?style=for-the-badge)
+![GitHub language count](https://img.shields.io/github/languages/count/artiscruelty/cartao-de-visitas-App?style=for-the-badge)
+![GitHub forks](https://img.shields.io/github/forks/artiscruelty/cartao-de-visitas-App?style=for-the-badge)
+![Bitbucket open issues](https://img.shields.io/bitbucket/issues/artiscruelty/cartao-de-visitas-App?style=for-the-badge)
+![Bitbucket open pull requests](https://img.shields.io/bitbucket/pr-raw/artiscruelty/cartao-de-visitas-App?style=for-the-badge)
 
 <img src="exemplo-image.png" alt="exemplo imagem">
 
@@ -16,11 +16,10 @@
 
 O projeto ainda está em desenvolvimento e as próximas atualizações serão voltadas nas seguintes tarefas:
 
-- [x] Tarefa 1
-- [x] Tarefa 2
-- [x] Tarefa 3
-- [ ] Tarefa 4
-- [ ] Tarefa 5
+- [x] Funcionalidade do App criar cartões
+- [x] App conseguir compartilhar apenas os cartões como print
+- [ ] Customizar para deixar proximo ao App do Santander.
+
 
 ## 💻 Pré-requisitos
 
@@ -30,33 +29,18 @@ Antes de começar, verifique se você atendeu aos seguintes requisitos:
 * Você tem uma máquina `<Windows / Linux / Mac>`. Indique qual sistema operacional é compatível / não compatível.
 * Você leu `<guia / link / documentação_relacionada_ao_projeto>`.
 
-## 🚀 Instalando <nome_do_projeto>
 
-Para instalar o <nome_do_projeto>, siga estas etapas:
+## ☕ Usando cartão de visitas
 
-Linux e macOS:
-```
-<comando_de_instalação>
-```
+Para usar o cartão de visitas, siga estas etapas:
 
-Windows:
-```
-<comando_de_instalação>
-```
-
-## ☕ Usando <nome_do_projeto>
-
-Para usar <nome_do_projeto>, siga estas etapas:
-
-```
-<exemplo_de_uso>
-```
+Basta dar um fork nesse repositorio, e abrir com seu android studio.
 
 Adicione comandos de execução e exemplos que você acha que os usuários acharão úteis. Fornece uma referência de opções para pontos de bônus!
 
-## 📫 Contribuindo para <nome_do_projeto>
-<!---Se o seu README for longo ou se você tiver algum processo ou etapas específicas que deseja que os contribuidores sigam, considere a criação de um arquivo CONTRIBUTING.md separado--->
-Para contribuir com <nome_do_projeto>, siga estas etapas:
+## 📫 Contribuindo para o cartão de visitas
+
+Para contribuir com o cartão de visitas, siga estas etapas:
 
 1. Bifurque este repositório.
 2. Crie um branch: `git checkout -b <nome_branch>`.
@@ -68,7 +52,7 @@ Como alternativa, consulte a documentação do GitHub em [como criar uma solicit
 
 ## 🤝 Colaboradores
 
-contribuíntes:
+Contribuíntes:
 
 <table>
   <tr>
