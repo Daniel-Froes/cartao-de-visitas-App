@@ -74,7 +74,7 @@ contribuíntes:
   <tr>
     <td align="center">
       <a href="#">
-        <img src="https://imgur.com/a/2WtmB23" width="100px;" alt="Foto do Daniel Froes no GitHub"/><br>
+        <img src="https://i.imgur.com/8Dg1XXz.jpg" width="100px;" alt="Foto do Daniel Froes no GitHub"/><br>
         <sub>
           <b>Daniel Froes</b>
         </sub>
