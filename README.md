@@ -5,8 +5,6 @@
 ![GitHub repo size](https://img.shields.io/github/repo-size/artiscruelty/cartao-de-visitas-App?style=for-the-badge)
 ![GitHub language count](https://img.shields.io/github/languages/count/artiscruelty/cartao-de-visitas-App?style=for-the-badge)
 ![GitHub forks](https://img.shields.io/github/forks/artiscruelty/cartao-de-visitas-App?style=for-the-badge)
-![Bitbucket open issues](https://img.shields.io/bitbucket/issues/artiscruelty/cartao-de-visitas-App?style=for-the-badge)
-![Bitbucket open pull requests](https://img.shields.io/bitbucket/pr-raw/artiscruelty/cartao-de-visitas-App?style=for-the-badge)
 
 <img src="exemplo-image.png" alt="exemplo imagem">
 
