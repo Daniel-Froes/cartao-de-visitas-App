@@ -6,7 +6,8 @@
 ![GitHub language count](https://img.shields.io/github/languages/count/artiscruelty/cartao-de-visitas-App?style=for-the-badge)
 ![GitHub forks](https://img.shields.io/github/forks/artiscruelty/cartao-de-visitas-App?style=for-the-badge)
 
-<img src="exemplo-image.png" alt="exemplo imagem">
+<img src="https://i.imgur.com/LZrSqn0.png" alt="exemplo imagem">
+<img src="https://i.imgur.com/LQvDkGc.png" alt="exemplo imagem">
 
 > Linha adicional de texto informativo sobre o que o projeto faz. Sua introdução deve ter cerca de 2 ou 3 linhas. Não exagere, as pessoas não vão ler.
 
